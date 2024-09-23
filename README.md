@@ -55,7 +55,7 @@
   </a>
   <a href="mailto:jungilbung@naver.com">
     <img
-      src="https://img.shields.io/badge/jungilbung@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/jungilbung@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
 
