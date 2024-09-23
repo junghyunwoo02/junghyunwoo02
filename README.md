@@ -31,11 +31,11 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junghyunwoo02&theme=react)
 
-![](https://github-readme-stats.vercel.app/api?username=junghyunwoo02&show_icons=true&theme=radical)
-</div>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junghyunwoo02&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junghyunwoo02&theme=react)
+</div>
+
+
 
 <br>
 
