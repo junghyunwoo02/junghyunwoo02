@@ -1,4 +1,14 @@
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junghyunwoo02&theme=react)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junghyunwoo02&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junghyunwoo02&theme=react)
+</div>
+
+
+
+<br>
 
 <!--내용 부분-->
 <h3 align="center">💡 Tech Stack 💡</h3>
@@ -23,19 +33,6 @@
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/zustand-orange?style=for-the-badge&logo=zustand&logoColor=white">
 </div>
-
-<br>
-
-
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junghyunwoo02&theme=react)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junghyunwoo02&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junghyunwoo02&theme=react)
-</div>
-
-
 
 <br>
 
