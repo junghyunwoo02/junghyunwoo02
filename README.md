@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/supabase-?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />&nbsp
+  <img src="https://img.shields.io/badge/supabase-20232a.svg?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />&nbsp
   <img src="https://img.shields.io/badge/next.js-150458.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
